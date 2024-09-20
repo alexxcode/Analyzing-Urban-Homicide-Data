@@ -28,7 +28,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Homicide Over Time (per year)
 
-![Homicide Over Time (per year)](https:)
+![Homicide Over Time (per year)](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/overyears.png)
 
 **Insights:**
 
@@ -44,7 +44,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Homicide Over Time (per month)
 
-![Homicide Over Time (per month)](https:)
+![Homicide Over Time (per month)](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/overmonths.png)
 
 **Insights:**
 
@@ -62,7 +62,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Distribution of homicide by Race
 
-![Distribution of homicide by Race](https:)
+![Distribution of homicide by Race](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/byrace.png)
 
 **Insights:**
 
@@ -73,7 +73,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Distribution of Victim Sex
 
-![Distribution of Victim Sex](https:)
+![Distribution of Victim Sex](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/bysex.png)
 
 **Insights:**
 
@@ -82,7 +82,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Distribution of Victim disposition
 
-![Distribution of Victim disposition](https:)
+![Distribution of Victim disposition](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/disposition.png)
 
 **Insights:**
 
@@ -107,7 +107,7 @@ The data included the location of the killing, whether an arrest was made and, i
 **Case Resolution:** A significant portion of homicide cases are closed through arrests, but a substantial number remain unsolved.
 
 
-# Notebook
+# Notebook: 
 
-![EDA](https:)
+![EDA](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/eda.ipynb)
 
