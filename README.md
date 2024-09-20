@@ -107,5 +107,6 @@ The data included the location of the killing, whether an arrest was made and, i
 **Case Resolution:** A significant portion of homicide cases are closed through arrests, but a substantial number remain unsolved.
 
 
-# Notebook: (https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/eda.ipynb)
+# Notebook: 
+(https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/eda.ipynb)
 
