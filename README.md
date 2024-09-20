@@ -13,7 +13,7 @@ The data included the location of the killing, whether an arrest was made and, i
 
 ## Distribution of Victim Ages
 
-![Distribution of Victim Ages](https:)
+![Distribution of Victim Ages](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/ages.png)
 
 **Insights:**
 
