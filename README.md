@@ -94,6 +94,22 @@ The data included the location of the killing, whether an arrest was made and, i
 - Smaller Proportions for "Closed without arrest": "Closed without arrest" cases represent a relatively small percentage of the total cases.
 
 
+## Top 10 Cities with the Most Homicides
+
+![Top 10 Cities with the Most Homicides](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/cities.png)
+
+**Insights:**
+
+- Chicago Dominates: Chicago stands out as having the highest number of homicides by a significant margin, exceeding the next city by over 1,000 cases.
+
+- Midwestern Cities Prevail: The majority of the cities in the top 10 are located in the Midwest, particularly the Great Lakes region. This suggests that factors unique to this region, such as socioeconomic disparities, gang violence, or gun access, may contribute to higher homicide rates.
+
+- Southern Cities Also Represented: Several Southern cities, including Houston, Baltimore, and New Orleans, are also included in the top 10. This suggests that regional factors, such as poverty, drug-related crime, or historical tensions, may play a role in these areas.
+
+- Los Angeles and Detroit: While not at the top of the list, Los Angeles and Detroit, both major metropolitan areas, still rank among the cities with the highest homicide rates. This indicates that large cities, regardless of region, may face unique challenges related to crime and violence.
+
+
+
 # Comprehensive Analysis of Homicide Data
 
 - **Age Distribution:** The majority of homicide victims are young adults (20-40 years old), with a peak around the age of 30.
