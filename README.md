@@ -120,7 +120,9 @@ The data included the location of the killing, whether an arrest was made and, i
 
 - **Gender Disparities:** Males are more likely to be victims of homicide than females.
 
-**Case Resolution:** A significant portion of homicide cases are closed through arrests, but a substantial number remain unsolved.
+- **Case Resolution:** A significant portion of homicide cases are closed through arrests, but a substantial number remain unsolved.
+
+- **Cities disparities:** There are significant disparities in homicide rates across different U.S. cities. Further analysis is needed to understand the underlying causes and develop effective solutions to address this pressing issue.
 
 
 # Notebook: 
