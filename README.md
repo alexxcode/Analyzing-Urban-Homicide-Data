@@ -109,6 +109,20 @@ The data included the location of the killing, whether an arrest was made and, i
 - Los Angeles and Detroit: While not at the top of the list, Los Angeles and Detroit, both major metropolitan areas, still rank among the cities with the highest homicide rates. This indicates that large cities, regardless of region, may face unique challenges related to crime and violence.
 
 
+# Focused Analysis on proportion of "Closed by arrest" cases by Race
+
+![Focused Analysis on proportion of "Closed by arrest" cases by Race](https://github.com/alexxcode/Analyzing-Urban-Homicide-Data/blob/main/images/proportion.png)
+
+**Insights:**
+
+- Asian: Among all racial groups, Asian individuals have the second-highest proportion of cases closed by arrest at 59.73%.
+
+- Black and Hispanic: The proportions for Black (46.19%) and Hispanic (48.08%) individuals are relatively similar. Both groups have lower proportions than Asian individuals.
+
+- Other: The "Other" category, which may include individuals of mixed races or those not identified with the listed races, has a proportion of 52.25%. This falls between Asian and Hispanic individuals, closer to the second-highest proportion.
+
+- White: White individuals have the highest proportion of cases closed by arrest among all racial groups, at 62.51%.
+
 
 # Comprehensive Analysis of Homicide Data
 
@@ -123,6 +137,11 @@ The data included the location of the killing, whether an arrest was made and, i
 - **Case Resolution:** A significant portion of homicide cases are closed through arrests, but a substantial number remain unsolved.
 
 - **Homicide rates disparities:** There are significant disparities in homicide rates across different U.S. cities. Further analysis is needed to understand the underlying causes and develop effective solutions to address this pressing issue.
+
+- **Proportion of cases "closed by arrest" varies across different racial groups:** There is no clear overall trend, but there are some notable differences between specific groups.
+
+
+
 
 
 # Notebook: 
